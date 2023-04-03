@@ -1,5 +1,7 @@
 # ramadan_fasting_buddy
 
+Caution: The app is still in progress and in it's very beginner stage.
+
 A new Flutter project.
 
 ## Getting Started
