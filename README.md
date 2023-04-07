@@ -1,6 +1,9 @@
 # ramadan_fasting_buddy
 
+**Author Notes:**
 Caution: The app is still in progress and in it's very beginner stage.
+UI UX: I'm planing to use Figma for design of the app. Having a design of the before me makes things much easier.
+       This is my first time using "Figma". Here's the link if you want to checkout the progress of the design: [Ramadan Fasting Buddy Figma](https://www.figma.com/file/A2YDd08RyKgQ4xOCpUqTR4/Ramadan-Buddy)
 
 A new Flutter project.
 
